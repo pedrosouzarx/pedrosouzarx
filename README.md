@@ -1,6 +1,6 @@
 ## Oi eu sou o Pedro Ribeiro, atualmente trabalho na area de tecnologia.
 
-Atualmente trabalho Sub Chefe da programação na community Fluxo RJ FiveM.
+Atualmente trabalho de Sub Chefe da programação na community Fluxo RJ FiveM.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
