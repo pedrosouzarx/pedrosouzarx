@@ -1,6 +1,6 @@
 ## Olá me chamo Pedro Ribeiro, atualmente trabalho na área da Programação.
 
-Atualmente trabalho na area de C.E.O da programação na community Fluxo RJ FiveM.
+Atualmente trabalho na area de C.E.O da programação na community Fluxo RJ FiveM.   
 Curso: Monkey - One Way.
 
 <div style="display: inline_block"><br>
